@@ -1,5 +1,4 @@
-# Repo
-## About this repo
-I saw a lot of videos about the battle fild online, and that shocked me alot. Now I know that the war is cruel.
-### I made a meme about war!
-![](my_meme.png)
+## Assignment 1
+-The war takes so many peoples' life, the only thing we can do to not invovin it is to remind people stay away from it!
+ I made a meme about the war to reminding people that the war is dangerous to the world.
+  This is the meme that I made:[Repo](https://she840.github.io/Repo/)
