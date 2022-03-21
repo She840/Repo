@@ -1,6 +1,5 @@
 # Repo
 ## About this repo
-The war takes so many peoples' life, the only thing we can do to not invovin it is to remind people stay away from it   
-[war](https://she840.github.io/stats220/)
+I saw a lot of videos about the battle fild online, and that shocked me alot. Now I know that the war is cruel.
 ### I made a meme about war!
 ![](my_meme.png)
